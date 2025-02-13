@@ -1,0 +1,64 @@
+Sabapathi K
+No 2 ,Siva nandha salai,Choolaimedu | Chennai,Tamil Nadu,600029 | sabakaruna23@gmail.com | 9488729472 | https://www.linkedin.com/in/sabapathi-k-32baba285/ | 
+PROFESSIONAL SUMMARY
+Detail-oriented and innovative Associate System Engineer with a solid foundation in systems design, cloud technologies, and automation. Adept at optimizing performance, automating processes, and ensuring system security. Passionate about leveraging cutting-edge technologies to solve complex technical challenges. Seeking to contribute my technical expertise and problem-solving skills to IBM’s dynamic team.
+
+CORE COMPETENCIES
+
+Cross-Platform System Integration
+Cloud Computing & Hybrid Cloud Solutions
+DevOps & CI/CD Pipeline Development
+Automation & Scripting (Python, Bash, Ansible)
+Containerization (Docker, Kubernetes)
+AI/ML for System Optimization
+Cybersecurity & Risk Management
+Performance Tuning & System Optimization
+Customer-Facing Technical Support
+Disaster Recovery & Business Continuity
+System Architecture & Design
+
+TECHNICAL SKILLS
+
+Operating Systems: Windows, Linux, macOS
+Cloud Platforms: AWS, Azure, Google Cloud
+Programming/Scripting Languages: Python, Bash, Java, C++
+Tools & Technologies: Docker, Kubernetes, Ansible, Terraform, Jenkins, GitLab, Git
+Databases: MySQL, MongoDB, PostgreSQL
+Networking: TCP/IP, DNS, DHCP, VPNs, Firewalls
+Security: SSL/TLS, MFA, Encryption Protocols
+CI/CD Tools: Jenkins, GitLab, Travis CI
+Others: Virtualization (VMware, Hyper-V), Nagios, Prometheus
+
+PROFESSIONAL EXPERIENCE
+
+Software Tester
+Brainotix Solutions private limited, [Chennai Tamil Nadu ] | June 2024 – August 2024
+
+Assisted in the design and deployment of a hybrid cloud architecture, integrating AWS and on-premise systems for improved scalability and redundancy.
+Developed automation scripts in Python to monitor system performance and trigger alerts, reducing manual intervention by 35%.
+Worked with the team to deploy Docker containers in a Kubernetes environment, optimizing resource usage and scaling application workloads.
+Assisted in implementing security measures such as encryption protocols and vulnerability scanning, contributing to a 20% reduction in security breaches.
+Supported the creation and testing of disaster recovery strategies, ensuring business continuity in the event of system failures.
+
+EDUCATION
+Bachelor of Engineering in Electrical & Electronic Engineering
+University of [Anna University], [Chennai,TamilNadu] | Graduated: May 2024
+
+Relevant Coursework: Systems Engineering, Cloud Computing, Networking, Database Management, Cybersecurity, Artificial Intelligence
+Projects:
+Automated System Monitoring: Developed a Python-based monitoring system to track server performance and send real-time alerts.
+Cloud-Based Web Application: Designed a multi-tier web application hosted on AWS, using EC2 and RDS for scalable performance.
+
+CERTIFICATIONS
+
+AWS Certified Solutions Architect – Associate | Issued: December 2024
+Certified Kubernetes Administrator (CKA) | Issued: October 2024
+CompTIA Security+ | Issued: August 2024
+
+ADDITIONAL INFORMATION
+Open Source Contributions: Actively contribute to open-source projects related to system optimization and automation, including developing scripts for cloud provisioning.
+Languages: English (Fluent), Spanish (Conversational)
+
+Professional Development: Attended workshops on cloud security and system design at [Devops Community,She Builds].
+
+
